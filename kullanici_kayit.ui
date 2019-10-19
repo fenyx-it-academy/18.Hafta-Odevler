@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>704</width>
+    <height>584</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>470</y>
+     <width>201</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Onay</string>
+   </property>
+   <widget class="QCheckBox" name="checkBox">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>20</y>
+      <width>131</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Okudum Onayladim</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>130</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Evli</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Bekar</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>350</y>
+     <width>611</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="plainText">
+    <string>Genel Koşullar
+
+Bu bölüm Kariyer.net'in genel ve kanuni sorumluluklarını içerir. Lütfen, sitemizi kullanmadan önce aşağıda yazılı olanları dikkatli bir şekilde okuyunuz. Eğer aşağıda belirtilen şartları kısmen ve/veya tamamen kabul etmiyorsanız, Kariyer.net'i herhangi bir amaçla kullanmayınız.
+
+Kariyer.net, bu sayfalarda belirtilen genel koşulları dilediği zaman ve şekilde değiştirme hakkını kendinde saklı tutar. Kariyer.net'in www.kariyer.net adresini ziyaret ettiğinizde bu sayfayı da ziyaret etmeniz gerekmektedir. Bu nedenle www.kariyer.net adresini ziyaret ettiğinizde bu sayfayı da ziyaret ettiğiniz kabul edilir.
+
+Kopyalama
+
+Kariyer.net ticari amaçlarla olmamak koşulu ve sadece kendiniz tarafından kullanılmak şartı ile bir kereye mahsus olmak üzere, sitede belirtilen bilgilerin kopyalanmasına izin verir.
+
+Kariyer.net'in içeriğinde yer alan bütün bilgilerin, yazıların, logoların, grafiklerin ve bunlarla sınırlı olmamak üzere her türlü görsel ve resimlerin her hakkı saklıdır. İzinsiz kullanılamaz. Bu sitede yer alan herhangi bir unsuru diğer bir internet sitesinde ve/veya başka bir mecrada yazılı, sözlü ve/veya elektronik olarak ve bunlarla sınırlı olmamak üzere her türlü şekilde yayınlamak ve/veya Kariyer.net'in haberi olmadan link vermek kesinlikle yasaktır.
+
+Ayrıca bu sayfaların tasarımında ve veritabanı oluşturulmasında kullanılan bilgi ve/veya yazılımın kopyalanması ve/veya kullanılması kesinlikle yasaktır.
+
+Sitede bulunan yazılım, görsel ve tasarımların her türlü hakkı Kariyer.net'e aittir.
+
+Kullanım
+
+Bu site herkese açıktır. Yalnızca aşağıdaki hallerde, Kariyer.net sitenin kullanımını geçici ve/veya sürekli olarak engelleyebilir:
+Yanlış, düzensiz, eksik ve/veya yanıltıcı bilgi ve/veya uygun olmayan fotoğraf içeren özgeçmişin siteye kaydedilmesi halinde,
+Özgeçmiş dışı bilgilerin; özel ve/veya genel duyuruların, reklam amaçlı firma bilgilerinin ve/veya üyelik satış formasyonları gibi bilgilerin ilave edilmesi halinde,
+Diğer bir şahıs ve/veya kurum tarafından ilan edilen her türlü bilgi, görsel ve/veya logonun silinmesi tahrif edilmesi ve/veya değiştirilmesi halinde,
+Internet Sitesi Güvenlik Kuralları
+
+Belirtilen güvenlik kurallarına kısmen ve/veya tamamen uyulmaması halinde ya da kasıtlı veya kasıtsız olarak aşağıda belirtilenlerden herhangi birini yapan kişi, kişiler ve/veya kurum, kurumlar hakkında Kariyer.net'in her türlü kanuni hakkı saklıdır.
+Kullanıcıların diğer özgeçmiş bilgilerine girme çabaları ve/veya sitenin genel güvenliğini tehdit edecek her türlü doğrudan ve/veya dolaylı çalışmalar,
+Sitede kullanılan yazılımların çalışmasını engelleyebilecek her türlü doğrudan ve/veya dolaylı faaliyetler,
+Virüs vasıtası ile sitenin çalışmasına engel olma,
+Sitenin genel kurallarına uygun olmayan her türlü elektronik postanın yollanması ve/veya sitenin kilitlenmesini sağlama amacıyla aynı anda oldukça fazla ticari ve/veya kişisel elektronik postanın yollanması gibi.
+Kariyer.net'in Sorumlulukları;
+
+Kariyer.net, site üzerinde yer alan firma ve aday bilgilerinin içeriğinden hiçbir şekilde sorumlu tutulamaz. Bu sitede yer alan bilgilerle ilgili her türlü risk kullanıcılara aittir. Site üzerinde önceden herhangi bir haber vermeye gerek duyulmadan, istediği değişiklikleri yapma hakkı bizzat Kariyer.net'e aittir.
+
+Özgeçmişini sitede bulunduran kullanıcı; özgeçmişinde bulunan her türlü bilginin tek sorumlusudur.
+
+Kariyer.net bir işveren değildir; sitede yer alan özgeçmişler Kariyer.net'in sorumluluğu altında yer almamaktadır. İşveren firma ile kendi vasıtasıyla ilişkiye geçen özgeçmiş sahibi, bütün sorumluluğu üzerine almış olur.
+
+Kariyer.net, sitenin yazılımının her türlü hatadan arınmış olduğunu ve sitede herhangi bir virüs yer alıp almadığı konusunda herhangi bir sorumluluk yüklenmemektedir. Eğer bu sitede yer alan herhangi bir yazılım sebebi ile kullandığınız yazılım ve/veya donanım unsurlarına herhangi bir zarar gelirse firmamız bu konuda hiçbir sorumluluk yüklenmez.
+
+Bu sitede bulunan internet bağlantıları (linkler) ile ilgili her türlü risk kullanıcıya aittir. Kariyer.net özgeçmişinize bağlı olan bütün bilgileri kendi pazarlama faaliyetleri ile ilgili olarak kullanma hakkına sahiptir.
+
+Kariyer.net'i tercih ederek bize gösterdiğiniz ilgi ve güven için çok teşekkür ederiz.</string>
+   </property>
+  </widget>
+  <widget class="QDialogButtonBox" name="buttonBox">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>530</y>
+     <width>156</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="standardButtons">
+    <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>330</y>
+     <width>111</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Uyelik Sozlesmesi</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>30</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>60</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_3">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>170</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_4">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>200</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_5">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>240</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_6">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>280</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>90</y>
+     <width>111</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QRadioButton" name="radioButton">
+      <property name="text">
+       <string>Kadin</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="radioButton_2">
+      <property name="text">
+       <string>Erkek</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>101</width>
+     <height>281</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="lbl_ad">
+      <property name="text">
+       <string>Ad       :</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="lbl_soyad">
+      <property name="text">
+       <string>Soyad :</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>Cınsıyet</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>Medeni Durum :</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>Mail</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>Mail (Tekrar)</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>Password</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>Password Tekrar</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
